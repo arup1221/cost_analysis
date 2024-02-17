@@ -1,0 +1,6 @@
+cost,currency,usage_quantity,provider,region_code,product,account,year,month,day
+600,USD,7543210,gcp,us-central1,Compute Engine,987654321,2023,11,1
+300,USD,654321,gcp,europe-west2,Cloud Storage,987654321,2023,10,2
+900,USD,9876543,gcp,asia-east1,Cloud SQL,987654321,2023,12,3
+200,USD,123456,gcp,us-east4,Cloud Functions,987654321,2023,9,4
+400,USD,789012,gcp,australia-southeast1,BigQuery,987654321,2023,10,5
